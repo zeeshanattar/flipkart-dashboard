@@ -62,6 +62,6 @@ This dashboard is built using sample/synthetic e-commerce data modeled to repres
         The Flipkart Sales Dashboard enables stakeholders to monitor performance, understand customer behavior, optimize product strategy, and make data-driven business decisions. Its impact includes revenue growth, improved operational efficiency, and actionable insights into sales, profitability, and market trends.
 
    # 6) screenshot for demo :
-   The dashboard looks like 
+   The dashboard looks like: [Dashboard preview] (https://github.com/zeeshanattar/flipkart-dashboard/blob/main/flipkart%20dashboard.png)
         
        
